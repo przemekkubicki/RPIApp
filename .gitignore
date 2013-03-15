@@ -162,3 +162,5 @@ pip-log.txt
 # Mac crap
 .DS_Store
 /JavaApplication6/nbproject/private/
+/GOST/nbproject/private/
+/RPIApp/nbproject/private/
